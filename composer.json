@@ -1,5 +1,5 @@
 {
-    "name": "dgame/php-dto",
+    "name": "entense/php-dto",
     "description": "A data transfer object inspired by Rust's serde",
     "license": "MIT",
     "type": "package",
